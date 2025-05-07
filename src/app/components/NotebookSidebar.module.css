@@ -1,0 +1,8 @@
+/* src/components/NotebookSidebar.module.css */
+.sidebar {
+    background: #fff;
+    padding: 1rem;
+    border-right: 1px solid #eee;
+    height: 100%;
+  }
+  
